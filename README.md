@@ -1,5 +1,6 @@
 # python-exploracao-dados
 Exploração de Dados - Aplicar técnicas de estatística descritiva em dados.
+
 📌 Descrição
 Python - Exploração de Dados
 Este repositório contém práticas de exploração de dados utilizando a linguagem Python. O objetivo principal é aplicar técnicas de estatística descritiva para analisar, resumir e interpretar conjuntos de dados. Entre as atividades desenvolvidas, estão:
